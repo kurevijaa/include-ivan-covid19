@@ -1,0 +1,31 @@
+.logo{
+    margin-left: 45%;
+    margin-bottom: 30px;
+}
+.drop{
+    margin-left: 40%;
+}
+#slika{
+    width: 25%;
+    height:auto;
+}
+.podaciwrap{
+    display: flex;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    gap: '16px';
+
+}
+.slucajevi{
+    background-color: #ebba34;
+    border: 7px solid ;
+    border-color: color #242121;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+}
+
